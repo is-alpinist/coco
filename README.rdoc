@@ -1,0 +1,15 @@
+Code challenge for:  CodeFellows
+
+Models:
+
+post 
+user
+
+Controllers:
+
+admin
+posts
+users
+
+PostgreSql database
+
