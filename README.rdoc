@@ -1,4 +1,4 @@
-Code challenge for:  CodeFellows
+Everyday Rails Tutorial: Admin
 
 Models:
 
